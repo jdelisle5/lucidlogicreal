@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "c:\\repos\\LucidLogic\\LucidLogic.csproj": {}
+    "C:\\repo\\lucidlogicreal\\LucidLogic.csproj": {}
   },
   "projects": {
-    "c:\\repos\\LucidLogic\\LucidLogic.csproj": {
+    "C:\\repo\\lucidlogicreal\\LucidLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\repos\\LucidLogic\\LucidLogic.csproj",
+        "projectUniqueName": "C:\\repo\\lucidlogicreal\\LucidLogic.csproj",
         "projectName": "LucidLogic",
-        "projectPath": "c:\\repos\\LucidLogic\\LucidLogic.csproj",
-        "packagesPath": "C:\\Users\\Joseph DeLisle\\.nuget\\packages\\",
-        "outputPath": "c:\\repos\\LucidLogic\\obj\\",
+        "projectPath": "C:\\repo\\lucidlogicreal\\LucidLogic.csproj",
+        "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
+        "outputPath": "C:\\repo\\lucidlogicreal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joseph DeLisle\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
