@@ -10,6 +10,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+using LucidLogic.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace LucidLogic
 {
     public class Startup
@@ -31,6 +34,8 @@ namespace LucidLogic
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            services.AddDbContext<BlogContext>(options =>
+                 options.UseSqlite(Configuration.GetConnectionString("BlogContext")));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

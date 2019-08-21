@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\lucidlogicreal\\LucidLogic.csproj": {}
+    "C:\\repos\\lucidlogicreal\\LucidLogic.csproj": {}
   },
   "projects": {
-    "C:\\repo\\lucidlogicreal\\LucidLogic.csproj": {
+    "C:\\repos\\lucidlogicreal\\LucidLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\lucidlogicreal\\LucidLogic.csproj",
+        "projectUniqueName": "C:\\repos\\lucidlogicreal\\LucidLogic.csproj",
         "projectName": "LucidLogic",
-        "projectPath": "C:\\repo\\lucidlogicreal\\LucidLogic.csproj",
-        "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\lucidlogicreal\\obj\\",
+        "projectPath": "C:\\repos\\lucidlogicreal\\LucidLogic.csproj",
+        "packagesPath": "C:\\Users\\Joseph DeLisle\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\lucidlogicreal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Joseph DeLisle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,11 +54,23 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             }
           },
           "imports": [
