@@ -2958,6 +2958,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Pages\\Blogs\\Delete.cshtml",
+      "TargetPath": "Pages\\Blogs\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\Blogs\\Details.cshtml",
+      "TargetPath": "Pages\\Blogs\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -2980,6 +2990,21 @@
     {
       "FilePath": "Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\Blogs\\Edit.cshtml",
+      "TargetPath": "Pages\\Blogs\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\Blogs\\Create.cshtml",
+      "TargetPath": "Pages\\Blogs\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\Blogs\\Index.cshtml",
+      "TargetPath": "Pages\\Blogs\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
