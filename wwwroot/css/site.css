@@ -54,3 +54,17 @@ body {
   height: 60px;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.blog-header {
+  line-height: 1;
+  border-bottom: 1px solid #e5e5e5;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(229, 229, 229);
+}
+
+.blog-header-logo{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 2.25rem;
+}
+

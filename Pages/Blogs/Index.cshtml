@@ -1,13 +1,20 @@
-@page
-@model LucidLogic.Pages.Blogs.IndexModel
+@page 
 
+@model LucidLogic.Pages.Blogs.IndexModel
+<!-- What makes it different is the "atpage" directive. -->
+<!--       "atpage" makes the file into an MVC action - which means  -->
+<!-- that it handles requests directly, without going through a controller. -->
+<!-- "atpage" must be the first Razor directive on a page. "atpage" affects the -->
+<!-- behavior of other Razor constructs. -->
 @{
     ViewData["Title"] = "Index";
 }
+<div class="container">
+<h1 class="modal-title">My First Blog/Razor Page</h1>
+</div>
+<h1 class="modal-title">My First Blog/Razor Page</h1>
 
-<h1>Index</h1>
-
-<p>
+<p >
     <a asp-page="Create">Create New</a>
 </p>
 <table class="table">
