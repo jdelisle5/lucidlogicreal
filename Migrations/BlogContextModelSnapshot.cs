@@ -34,15 +34,17 @@ namespace LucidLogic.Migrations
 
                     b.Property<int>("BlogId");
 
-                    b.Property<string>("Title");
+                    b.Property<string>("GoogleDocUnqiueID");
 
-                    b.Property<string>("content");
+                    b.Property<string>("HTML");
+
+                    b.Property<string>("Title");
 
                     b.HasKey("Id");
 
                     b.HasIndex("BlogId");
 
-                    b.ToTable("Post");
+                    b.ToTable("Posts");
                 });
 
             modelBuilder.Entity("LucidLogic.Models.Post", b =>

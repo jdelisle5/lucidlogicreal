@@ -74,6 +74,11 @@ C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.AssemblyInfo.cs
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.TagHelpers.input.cache
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.TagHelpers.output.cache
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.RazorCoreGenerate.cache
+C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Create.g.cshtml.cs
+C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Delete.g.cshtml.cs
+C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Details.g.cshtml.cs
+C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Edit.g.cshtml.cs
+C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Index.g.cshtml.cs
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
@@ -88,8 +93,3 @@ C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.Views.pdb
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.dll
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.pdb
 C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\LucidLogic.csproj.CopyComplete
-C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Create.g.cshtml.cs
-C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Delete.g.cshtml.cs
-C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Details.g.cshtml.cs
-C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Edit.g.cshtml.cs
-C:\repos\lucidlogicreal\obj\Debug\netcoreapp2.2\Razor\Pages\Blogs\Index.g.cshtml.cs
